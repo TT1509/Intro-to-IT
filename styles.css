@@ -1,0 +1,26 @@
+.box {
+    text-align: left;
+    padding: 2% ;
+    background-color: rgb(211, 139, 151);
+    width: 20%;
+}
+.top {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: normal;
+    color: aliceblue;
+    padding-right: 20%;
+    text-align: center;
+}
+.below {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    font-style: italic;
+    color: aliceblue;
+    padding: auto;
+    text-align: auto;
+    float: right;
+}
+table, th, td {
+    border: 1px solid black;
+  }
